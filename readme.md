@@ -6,7 +6,7 @@ The dual attention design is implemented in rcnn/symbol/symbol_vgg.py to improve
 * File structure:
     * ./data/DeepLesion - dataset folder
     * ./exp - Experiment configs and the output files
-    * ./imagenet_models - pretrained imagenet weights
+    * ./imagenet_models - pretrained imagenet weights ([download](https://drive.google.com/file/d/1gBT3Mm7xnhv7Jc31B9Uj3FRw056sGLxr/view?usp=sharing))
     * ./rcnn - core codes
 * Data preprocessing - Refer to the original 3DCE repo: 
     * Load data split and annotations from DL_info.csv (see dataset/DeepLesion.py)
